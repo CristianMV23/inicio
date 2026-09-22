@@ -3,6 +3,6 @@
  */
 public class Data{
 	/**
-	* Aquí voy a meter el código de la clase Data
-	*/	
+	* Aquí voy a meter el código de la case
+	*/
 }
